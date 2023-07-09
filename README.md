@@ -1,2 +1,2 @@
 # hsr-script
-honkai star rail script for v1.1
+Honkai Star Rail script for v1.1
